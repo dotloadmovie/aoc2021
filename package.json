@@ -1,0 +1,23 @@
+{
+  "name": "aoc2021",
+  "version": "1.0.0",
+  "description": "Advent of Code Solutions, 2021",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotloadmovie/aoc2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dotloadmovie/aoc2021/issues"
+  },
+  "homepage": "https://github.com/dotloadmovie/aoc2021#readme",
+  "dependencies": {
+    "@types/node": "^16.11.11",
+    "typescript": "^4.5.2"
+  }
+}
